@@ -1,0 +1,1 @@
+web: build/install/sparkcred123/bin/sparkcred123
